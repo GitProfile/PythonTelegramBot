@@ -1,0 +1,13 @@
+#Token file
+#token="<TOKEN>"
+tokenFile.py
+
+#Lib
+#<pip install python-telegram-bot --target=./ --upgrade>
+certifi*
+future*
+libfuturize
+libpasteurize
+past
+python_telegram_bot*
+telegram
