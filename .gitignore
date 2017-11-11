@@ -11,3 +11,6 @@ libpasteurize
 past
 python_telegram_bot*
 telegram
+
+#Python folders
+__pycache__
